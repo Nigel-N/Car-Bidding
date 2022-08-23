@@ -1,0 +1,13 @@
+.custom-indicator{
+    /* border: 2px solid green; */
+    bottom: -80px;
+    padding-bottom: 10px;
+}
+.custom-indicator ul{
+    margin: 0;
+    padding: 0;
+}
+.custom-indicator li{
+    width: 70px;
+    height: 70px;
+}
